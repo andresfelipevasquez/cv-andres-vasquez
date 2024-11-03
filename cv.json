@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Andrés Vásquez",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Profesional con más de 7 años de experiencia en el desarrollo web, haciendo uso de tecnologías como JavaScript, TypeScript, HTML, CSS, React y Redux, entregando soluciones para empresas de servicios públicos y telecomunicaciones. Apasionado por el aprendizaje constante y en apoyar a las personas que inician en el mundo del desarrollo.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Cali",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "andrésfelipevásquez",
+        "url": "https://www.linkedin.com/in/andrésfelipevásquez"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Open Intelligence",
+      "location": "Colombia",
+      "position": "Frontend Engineer",
+      "url": "https://www.openintl.com/es/",
+      "startDate": "2016-11-25",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Responsable de llevar a cabo migraciones de aplicaciones en .NET a su versión web.",
+        "Desarrollo de aplicaciones interactivas con principios “adaptive and responsive” usando Javascript, React, Redux Toolkit, TypeScript, Jest, Testing Library).",
+        "Como Frontend engineer se proponen nuevas soluciones para mejorar de forma constante la experiencia de desarrollo (optimizar tiempo de compilación, agregar mocks sobre Apis y pruebas con Playwright).",
+        "Se brinda mentoría a los ingenieros recién ingresados, compartiendo conocimientos y así apoyar en su crecimiento profesional.",
+        "Desarrollo de scripts para automatizar tareas repetitivas usando lenguajes como Bash y Python."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "universidad del Valle (CO)",
+      "url": "https://www.univalle.edu.co/",
+      "area": "Ingeniero de sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2012-05-05",
+      "endDate": "2017-05-05",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Redux",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "isActive": true,
+      "description": "",
+      "highlights": [""],
+      "url": ""
+    }
+  ]
+}

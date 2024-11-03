@@ -1,0 +1,42 @@
+---
+import Section from "@/components/Section.astro";
+import { basics } from "@cv";
+
+const { name, location, profiles, email } = basics;
+const { city, region } = location;
+
+const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
+const linkedUrl = linkedInfo?.url;
+---
+
+<Section>
+  <div>
+    <h1>{name}</h1>
+    <footer>
+      <span>{city}, {region} •</span>
+      <span>
+        <a
+          href={linkedUrl}
+          target="_blank"
+          title={`Ir al perfil de LinkedIn de ${name}`}
+          >{"linkedin.com/in/andrésfelipevásquez"}
+        </a>
+      </span>
+      <!-- <span>{email}</span> -->
+    </footer>
+    <hr />
+  </div>
+</Section>
+
+<style>
+  h1,
+  footer {
+    display: flex;
+    justify-content: center;
+  }
+  footer {
+    display: flex;
+    gap: 7px;
+    flex-wrap: wrap;
+  }
+</style>

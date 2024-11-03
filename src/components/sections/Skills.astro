@@ -1,0 +1,25 @@
+---
+import Section from "../Section.astro";
+import { skills } from "@cv";
+---
+
+<Section title="Habilidades">
+  <hr />
+  <ul class="two-columns">
+    {skills.map((skill) => <li>{skill.name}</li>)}
+  </ul>
+</Section>
+
+<style>
+  .two-columns {
+    column-count: 3;
+    column-gap: 20px;
+    list-style: disc;
+    margin-left: 20px;
+  }
+
+  .two-columns li {
+    break-inside: avoid;
+    margin-bottom: 10px;
+  }
+</style>
