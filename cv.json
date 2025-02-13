@@ -32,11 +32,12 @@
       "endDate": null,
       "summary": "",
       "highlights": [
-        "Responsable de llevar a cabo migraciones de aplicaciones en .NET a su versión web.",
-        "Desarrollo de aplicaciones interactivas con principios “adaptive and responsive” usando Javascript, React, Redux Toolkit, TypeScript, Jest, Testing Library).",
-        "Como Frontend engineer se proponen nuevas soluciones para mejorar de forma constante la experiencia de desarrollo (optimizar tiempo de compilación, agregar mocks sobre Apis y pruebas con Playwright).",
-        "Se brinda mentoría a los ingenieros recién ingresados, compartiendo conocimientos y así apoyar en su crecimiento profesional.",
-        "Desarrollo de scripts para automatizar tareas repetitivas usando lenguajes como Bash y Python."
+        "Migré más de 3 aplicaciones en .NET a su versión Web.",
+        "Desarrollé más de 4 aplicaciones interactivas  usando JavaScript, React, Redux Toolkit, TypeScript, Jest, Testing Library y Playwright).",
+        "Propuse e implementé propuestas de pruebas de integración y unitarias con Testing Library y Playwright.",
+        "Propuse soluciones de forma constante para mejorar la experiencia de desarrollo (optimizar tiempo de compilación, agregar mocks sobre Apis).",
+        "Brindé mentoría y acompañamiento a los ingenieros recién ingresados, compartiendo conocimientos  técnicos, contribuyendo a su crecimiento profesional.",
+        "Desarrollé  scripts para automatizar tareas repetitivas usando lenguajes como Bash y Python."
       ]
     }
   ],
@@ -78,12 +79,7 @@
     {
       "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "keywords": ["Frontend", "JavaScript Superset"]
     },
     {
       "name": "Redux",
@@ -106,9 +102,24 @@
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
+      "name": "Jest",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Testing Library",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Playwright",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": []
     },
     {
       "name": "Python",
