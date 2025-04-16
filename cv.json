@@ -34,8 +34,7 @@
       "highlights": [
         "Lideré y migré más de 3 aplicaciones en .NET a su versión Web, asegurando su escalabilidad, rendimiento y priorizando la experiencia de usuario (UX), usando tecnologías como React, TypeScript, Redux Toolkit y Playwright. El desarrollo se llevó a cabo bajo metodologías ágiles como Scrum, permitiendo entregar valor de forma continua.",
         "Desarrollé más de 4 aplicaciones web interactivas, definiendo parte de su arquitectura front-end y de su diseño de software, utilizando React, TypeScript, Redux Toolkit, CSS, Jest y consumiendo servicios RESTful APIs. Obteniendo como resultado componentes reutilizables y aplicaciones intuitivas para el usuario.",
-        "Propuse e implementé propuestas de pruebas de integración y unitarias con Testing Library y Playwright.",
-        "Propuse soluciones de forma constante para mejorar la experiencia de desarrollo (optimizar tiempo de compilación, agregar mocks sobre Apis).",
+        "Lideré el diseño e implementación de un sistema de mocks sobre Apis para desacoplar el desarrollo frontend del backend en diferentes aplicaciones web, logrando agilizar tanto ciclo como la experiencia de desarrollo (DX).",
         "Brindé mentoría y acompañamiento a los ingenieros recién ingresados, compartiendo conocimientos  técnicos, contribuyendo a su crecimiento profesional.",
         "Desarrollé  scripts para automatizar tareas repetitivas usando lenguajes como Bash y Python."
       ]
